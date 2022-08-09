@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2418F7&width=500&height=100&lines=Hi%2C+I'm+Segzy+%F0%9F%98%87;I'm+a+backend+developer+%F0%9F%98%81;I+use+JavaScript+a+lot++%F0%9F%91%8A%F0%9F%92%9B;and+occasionally+Python+%F0%9F%91%8C+%F0%9F%92%99%F0%9F%92%9B;I+want+to+be+a........;Blockchain+developer+%F0%9F%99%88;And+if+you're+wondering........;Blue+is+my+favorite+colour.)](https://git.io/typing-svg)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<a href="https://app.daily.dev/giftsegunade"><img src="https://api.daily.dev/devcards/8833fa2c69414f72b7a92b4b46ce396b.png?r=t2j" width="400" alt="Gift Segun ade's Dev Card"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giftade&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
