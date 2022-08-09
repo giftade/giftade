@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<img src='header.png' alt='intro-header'>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=giftade.visitor-badge)
 
@@ -25,6 +26,10 @@ Here are some ideas to get you started:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giftade&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=giftade&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+- 🌱 I’m currently learning JavaScript, Baeckend development with Node Js.
+
+## 😄 Pronouns: he/him
 
 # I Love/Learning about:
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
