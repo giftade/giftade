@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=giftade)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![wakatime](https://wakatime.com/badge/user/ad83083a-6ceb-4052-accc-986f394d84d4.svg)](https://wakatime.com/@ad83083a-6ceb-4052-accc-986f394d84d4)
+
 
