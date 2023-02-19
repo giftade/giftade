@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 # I Love/Learning about:
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=giftade)](https://github.com/ryo-ma/github-profile-trophy)
 
