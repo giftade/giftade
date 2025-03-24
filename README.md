@@ -13,19 +13,15 @@ Here are some ideas to get you started:
 ##😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2418F7&width=500&height=100&lines=Hi%2C+I'm+Segun+%F0%9F%98%87;I'm+a+backend+developer+%F0%9F%98%81;I+use+Golang.)](https://git.io/typing-svg)</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2418F7&width=500&height=100&lines=Hi%2C+I'm+Segun+%F0%9F%98%87;I'm+a+backend+developer+%F0%9F%98%81;I+am+trying+to+be+a+language-agnostic+dev.)](https://git.io/typing-svg)</br>
 
 <a href="https://app.daily.dev/giftsegunade"><img src="https://api.daily.dev/devcards/8833fa2c69414f72b7a92b4b46ce396b.png?r=t2j" width="400" alt="Gift Segun ade's Dev Card"/></a></br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giftade&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 )</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftade&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)</br>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Segzy)](https://github.com/anuraghazra/github-readme-stats)</br>
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=giftade&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)</br>
-
-- 🌱 I’m currently learning Go, Backend development.</br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=giftade)](https://github.com/ryo-ma/github-profile-trophy)</br>
 
